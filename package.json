@@ -1,6 +1,6 @@
 {
   "name": "johnny",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The future of deps",
   "main": "index.js",
   "scripts": {
